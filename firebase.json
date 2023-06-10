@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "FireBaseAuthencation",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

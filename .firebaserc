@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularbypro-1e045": {
+      "hosting": {
+        "FireBaseAuthencation": [
+          "angularbypro-1e045"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularbypro-1e045"
+  }
+}
